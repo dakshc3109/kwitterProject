@@ -1,0 +1,27 @@
+.logo {
+	width: 300px;
+	height: 400px;
+	background-color: darkturquoise;
+	margin-top: 90px;
+	margin-left: 350px;
+	border-radius: 25px 0px 0px 25px;
+	box-shadow: 0px 10px 5px #aaaaaa;
+}
+
+.items {
+	background-color: wheat;
+	width: 300px;
+	height: 400px;
+	position: absolute;
+	top: 90px;
+	left: 590px;
+	border-radius: 0px 25px 25px 0px;
+	box-shadow: 10px 10px 5px #aaaaaa;
+}
+
+#mylabel {
+	font-family: 'Viaoda Libre', cursive;
+	margin-left: 40px;
+	margin-top: 40px;
+	font-size: xx-large;
+}
