@@ -25,3 +25,7 @@
 	margin-top: 40px;
 	font-size: xx-large;
 }
+
+.room_name{
+	cursor: pointer;
+}
